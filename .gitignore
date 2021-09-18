@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#other stuff
+Debug/
+Release/
+temp/
+dumpfile.txt
+file72
+print.txt
+tempbyte
+olb
+*vcxproj
+*vcxproj*
+
